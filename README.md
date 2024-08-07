@@ -1,8 +1,8 @@
 # Dotfiles -- Arch + Hyprland
 
 ## Theme Used
-GTK - Materia-dark (Present in AUR)
-QT - MateriaDark (In Kvantum folder)
+- GTK - Materia-dark (Present in AUR)
+- QT - MateriaDark (In Kvantum folder)
 
 ## Power Menu Script
 Rofi is used as a power menu -- Copy the **powermenu.sh** file to **~/.config/hypr**
