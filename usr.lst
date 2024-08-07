@@ -1,0 +1,26 @@
+# --------------------------------------------------- // System
+# libinput-gestures                                    # actions touchpad gestures using libinput
+# gestures                                             # gui for libinput-gestures
+
+# --------------------------------------------------- // Dependencies
+xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
+# emote                                                # emoji picker gtk3
+
+# --------------------------------------------------- // Music
+cava                                                   # audio visualizer
+youtube-music-bin                                      # proprietary music streaming service
+
+# --------------------------------------------------- // Apps
+brave-bin                                              # browser
+Alcritty                                               # terminal
+dolphin                                                # kde file manager
+ark                                                    # kde file archiver
+neovim                                                 # terminal text editor
+visual-studio-code-bin                                 # ide text editor
+kdeconnect                                             # phone-pc link
+qemu                                                   # vm manager
+qbittorrent                                            # torrent client
+Remmina                                                # Remote Access tool
+btop                                                   # Task Manage CLI tool
+gwenview                                               # KDE Image viewer
+mvp                                                    Media Player
