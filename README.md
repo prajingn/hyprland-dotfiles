@@ -14,12 +14,6 @@ Then call the script using a key bind (used in the current configration)
 ## Waybar, Alacritty And Rofi Menu
 Must install a nerd font. **FiraCode Nerd Font**
 
-## Suspend-then-hibernate
-1. Swap must me present
-2. Edit **/etc/systemd/sleep.conf**  and **/etc/systemd/logind.conf** 
-> -  Allow Suspend-then-hibernate, Set HybernateDelaySec=60min, Set SuspendEstimationSec=60min in **sleep.conf**
-> -  Allow SleepOperation = Suspend-then-hibernate, Allow all three LidSwitch options in **logind.conf**
-
 ## Packages To Install:
 System App list => hypr.lst
 User App list => usr.lst
