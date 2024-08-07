@@ -5,14 +5,14 @@
 - QT - MateriaDark (In Kvantum folder)
 
 ## Power Menu Script
-Rofi is used as a power menu -- Copy the **powermenu.sh** file to **~/.config/hypr**
-Then call the script using a key bind (used in the current configration)
+- Rofi is used as a power menu -- Copy the **powermenu.sh** file to **~/.config/hypr**
+- Then call the script using a key bind (used in the current configration)
 
 ## Dolphin App Menu (Missing apps)
 **Solution:** Copy **menus** directory to the ~/.config folder.
 
 ## Waybar, Alacritty And Rofi Menu
-Must install a nerd font. **FiraCode Nerd Font**
+- Must install a nerd font. **FiraCode Nerd Font**
 
 ## Suspend-then-hibernate
 1. Swap must me present
@@ -21,5 +21,5 @@ Must install a nerd font. **FiraCode Nerd Font**
 > -  Allow SleepOperation = Suspend-then-hibernate, Allow all three LidSwitch options in **logind.conf**
 
 ## Packages To Install:
-System App list => hypr.lst
-User App list => usr.lst
+- System App list => hypr.lst
+- User App list => usr.lst
